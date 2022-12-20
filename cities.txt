@@ -1,0 +1,7 @@
+philadelphia
+sandiego
+boston
+dallas
+paris
+moscow
+nyc
